@@ -4,6 +4,7 @@ import React from 'react'
 // import auth0 from '../lib/auth0'
 import { useFetchUser } from '../lib/user'
 import Layout from '../components/layout'
+import withApollo from '../lib/apollo'
 
 function ProfileCard({ user }) {
   return (
@@ -30,4 +31,4 @@ function Profile() {
   )
 }
 
-export default Profile
+export default withApollo(Profile)
