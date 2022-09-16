@@ -3342,9 +3342,9 @@ jest-worker@24.9.0:
     supports-color "^6.1.0"
 
 jose@^1.25.0:
-  version "1.25.2"
-  resolved "https://registry.yarnpkg.com/jose/-/jose-1.25.2.tgz#59553200a2edd0d9deb5e6f780d7eda777f895d8"
-  integrity sha512-Gr4oTibx/UHP7JfjCMjNDlakdio6xJiTeeOFr3E7UYcEj8UrAvEhr9CECdID5g31M9tZyKfLzVKZW8Qu5UNIFw==
+  version "1.28.2"
+  resolved "https://registry.yarnpkg.com/jose/-/jose-1.28.2.tgz#97f4aa608d0020ae5c1051a2a33247b957401e5a"
+  integrity sha512-wWy51U2MXxYi3g8zk2lsQ8M6O1lartpkxuq1TYexzPKYLgHLZkCjklaATP36I5BUoWjF2sInB9U1Qf18fBZxNA==
   dependencies:
     "@panva/asn1.js" "^1.0.0"
 
